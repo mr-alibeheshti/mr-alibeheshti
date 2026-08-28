@@ -1,0 +1,11 @@
+{
+  "username": "mr-alibeheshti",
+  "name": "Ali Beheshti",
+  "wordmark": "BEHESHTI",
+  "role": "Backend engineer · integration builder",
+  "location": "Iran · UTC+03:30",
+  "status": "Building reliable integrations, APIs, and developer tools.",
+  "website": "https://abeheshti.ir",
+  "photo": "assets/profile-source.png",
+  "skills": ["Python", "TypeScript", "Node.js", "PHP", "Docker", "MongoDB"]
+}
